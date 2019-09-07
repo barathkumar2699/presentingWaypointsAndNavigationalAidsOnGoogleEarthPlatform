@@ -1,0 +1,66 @@
+<html>
+
+<head>
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
+    <meta charset="utf-8">
+    <title>South America Tour Map</title>
+    <style>
+        html, body {
+	margin: 0;
+	padding: 0;
+	text-align: center;
+  font-family: Helvetica;
+}
+.map {
+	position: absolute;
+	bottom: 0px;
+	left: 0px;
+	width: 100%;
+	height: 100%;
+	background: #fff;
+	z-index: 0;
+}
+</style>
+</head>
+</html> 
+<body>
+    <div id="mapCanvas" class="map"></div>
+     <script src="https://code.jquery.com/jquery-3.3.1.min.js"
+                integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+    <script> 
+                function initMap() {
+                    var map = new google.maps.Map(document.getElementById('mapCanvas'), {
+                        zoom: 2.75,
+                        draggable: true,
+                        mapTypeId : 'satellite',
+                        panControl: true,
+
+                        streetViewControl: true,
+                        scrollwheel: true,
+                        scaleControl: true,
+                        disableDefaultUI: false,
+                        disableDoubleClickZoom: false,
+                       center: {lat : 20.17805556,lng : 78.805556 } 
+                    });
+                                 $.post('http://localhost:8080/getLocation', { name : <location> }).done(function (data) {
+                                          //  if(err):throw err;
+                     //   console.log(data);
+                        let center = {
+                                    lat: parseFloat(data.location.lat.$numberDecimal),
+                                    lng: parseFloat(data.location.long.$numberDecimal)
+                                }
+                                var marker = new google.maps.Marker({
+                                    position: center,
+                                    map: map
+                                });
+                                        }); 
+                        }
+                </script>
+                <div id="find" class="finding">
+                    <input type="text" name="airportname" >
+                    <button type="submit" name="search" onclick="go();"> SEARCH</button>
+                </div>
+            <script async defer
+            src="https://maps.googleapis.com/maps/api/js?key=AIzaSyB1LoOvq7e6NJnxJdk2aUi3KZrY5WqY-jI&callback=initMap"></script>
+</body>
+</html>

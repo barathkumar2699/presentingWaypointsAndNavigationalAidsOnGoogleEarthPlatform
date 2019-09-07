@@ -1,0 +1,3533 @@
+Python 3.7.2 (tags/v3.7.2:9a3ffc0492, Dec 23 2018, 23:09:28) [MSC v.1916 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+=================== RESTART: C:\Users\Barath\Desktop\2.py ===================
+['<div class="info_content">' +'<h3> ADBUK</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[24.575277777777778, 74.9075]</p>' + 
+'<p>No of routes:Q2,Q4</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> ADKAL</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[11.848333333333334, 78.28027777777778]</p>' + 
+'<p>No of routes:J15,J18,W114,W42</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> ADKIT</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[10.632777777777779, 82.8561111111111]</p>' + 
+'<p>No of routes:L896,N563,T3</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> ADPOP</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[19.050833333333333, 68.0]</p>' + 
+'<p>No of routes:P574</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> AGEGA</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[8.835277777777778, 93.99694444444445]</p>' + 
+'<p>No of routes:L510</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> AGELA</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[16.60666666666667, 75.46583333333334]</p>' + 
+'<p>No of routes:B466,N571,Q8,W56N</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> AGODA</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[24.322222222222223, 88.60166666666666]</p>' + 
+'<p>No of routes:R472,R598</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> AGRIX</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[23.156666666666666, 74.34083333333332]</p>' + 
+'<p>No of routes:L639,Q2,Q7</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> AGROM</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[22.529166666666665, 84.83333333333333]</p>' + 
+'<p>No of routes:G450,M875</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> AGUNO</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[23.239166666666666, 90.43722222222223]</p>' + 
+'<p>No of routes:B593</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> AGUPA</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[24.023888888888887, 74.6863888888889]</p>' + 
+'<p>No of routes:Q2</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> AKELA</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[27.416944444444447, 76.79888888888888]</p>' + 
+'<p>No of routes:J5,Q23,W19</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> AKLON</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[11.352777777777778, 74.90666666666667]</p>' + 
+'<p>No of routes:P895,T7</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> AKMIL</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[11.859722222222222, 80.11527777777778]</p>' + 
+'<p>No of routes:A465,N563,N564,V5</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> AKMOL</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[10.70361111111111, 76.66027777777778]</p>' + 
+'<p>No of routes:Q13</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> AKSAN</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[17.525, 82.18333333333334]</p>' + 
+'<p>No of routes:V48,W29</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> AKTIV</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[20.248055555555556, 73.25833333333334]</p>' + 
+'<p>No of routes:A474,L301,Q16,Q2,W10S,W12S,W158</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> ALADO</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[11.355833333333333, 91.79722222222222]</p>' + 
+'<p>No of routes:L510,P762</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> ALBED</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[18.11722222222222, 78.65666666666667]</p>' + 
+'<p>No of routes:Q24</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> AMVIG</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[22.853611111111114, 73.37583333333333]</p>' + 
+'<p>No of routes:A347,G472,N895</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> ANDAV</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[17.471666666666664, 78.81361111111111]</p>' + 
+'<p>No of routes:Q23,Q24</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> ANGAL</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[16.234444444444446, 60.00111111111111]</p>' + 
+'<p>No of routes:P751,UM551</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> ANGUP</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[21.328888888888887, 74.26222222222222]</p>' + 
+'<p>No of routes:J19,Q16,W157</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> ANIRO</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[14.036111111111111, 78.60833333333333]</p>' + 
+'<p>No of routes:B211,W121,W148,W47,W48</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> ANKOX</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[22.04888888888889, 66.47833333333334]</p>' + 
+'<p>No of routes:L301</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> ANODA</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[9.968333333333334, 72.39944444444446]</p>' + 
+'<p>No of routes:R329,UL425,V26,V27</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> ANOKO</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[7.136666666666667, 94.41666666666667]</p>' + 
+'<p>No of routes:B466</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> ANPOL</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[31.26833333333333, 75.31027777777777]</p>' + 
+'<p>No of routes:W31E,W31W,W36</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> ANSOS</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[23.450833333333332, 93.46333333333334]</p>' + 
+'<p>No of routes:A201B</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> APAGO</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[22.203055555555554, 92.64944444444446]</p>' + 
+'<p>No of routes:B465,W104</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> APANO</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[21.583888888888886, 72.98277777777778]</p>' + 
+'<p>No of routes:A347,G208,W10N,W11,W12N,W13N,W16N</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> APASI</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[7.9077777777777785, 92.64500000000001]</p>' + 
+'<p>No of routes:B466</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> APGUN</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[12.061111111111112, 77.58277777777778]</p>' + 
+'<p>No of routes:J14,V45,W118</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> APIPU</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[26.9775, 82.99805555555555]</p>' + 
+'<p>No of routes:G598</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> APUNA</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[12.809722222222224, 68.01666666666667]</p>' + 
+'<p>No of routes:B459,UL425</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> APUSU</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[18.00111111111111, 76.42888888888889]</p>' + 
+'<p>No of routes:W18,W218</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> ARADO</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[24.026666666666667, 73.71972222222223]</p>' + 
+'<p>No of routes:A347,A791</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> ARIVO</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[22.97138888888889, 84.12916666666666]</p>' + 
+'<p>No of routes:A791</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> ARONA</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[9.904722222222222, 76.99361111111111]</p>' + 
+'<p>No of routes:Q13,V57,W43,W46</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> ARUMO</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[10.851666666666667, 78.20555555555556]</p>' + 
+'<p>No of routes:J15,J16</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> ASARI</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[30.804166666666667, 75.15861111111111]</p>' + 
+'<p>No of routes:A466,A589,L509,W30E,W30W,W31E,W31W</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> ASIPI</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[20.525, 77.87916666666666]</p>' + 
+'<p>No of routes:J2,Q20,W20</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> ASOGA</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[19.5425, 76.83222222222221]</p>' + 
+'<p>No of routes:L301</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> ASOPO</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[23.185833333333335, 80.06055555555555]</p>' + 
+'<p>No of routes:A791,P628,W66</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> ASPUX</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[17.734444444444446, 60.00111111111111]</p>' + 
+'<p>No of routes:T208,UL425</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> ATAPO</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[17.674444444444447, 75.99888888888889]</p>' + 
+'<p>No of routes:W28</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> ATEMA</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[5.001944444444445, 62.344722222222224]</p>' + 
+'<p>No of routes:B459</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> ATETA</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[9.318333333333333, 79.64861111111112]</p>' + 
+'<p>No of routes:M300,T4</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> ATIDA</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[9.980277777777777, 87.75083333333333]</p>' + 
+'<p>No of routes:B466</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> ATMUV</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[21.18305555555556, 78.73555555555555]</p>' + 
+'<p>No of routes:G472,N895,Q19</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> ATOBU</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[23.629444444444445, 76.16166666666668]</p>' + 
+'<p>No of routes:A791,J5</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> ATOGA</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[25.266666666666666, 90.02]</p>' + 
+'<p>No of routes:R472,W110</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> AUVIT</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[26.33222222222222, 89.47305555555556]</p>' + 
+'<p>No of routes:R598</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> AVDAX</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[22.2275, 92.27333333333333]</p>' + 
+'<p>No of routes:B465</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> AVDOS</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[17.82361111111111, 89.25916666666667]</p>' + 
+'<p>No of routes:L524,W111</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> AVGIR</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[12.557500000000001, 82.01138888888889]</p>' + 
+'<p>No of routes:V3,V6,V8</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> AVGON</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[28.643055555555556, 76.62944444444443]</p>' + 
+'<p>No of routes:G333</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> AVKOR</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[18.034444444444446, 73.96583333333334]</p>' + 
+'<p>No of routes:B466,W128,W56N,W67</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> AVNAK</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[24.362222222222222, 88.47888888888889]</p>' + 
+'<p>No of routes:B209</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> AVNOS</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[11.757777777777777, 83.35972222222222]</p>' + 
+'<p>No of routes:B466,V8</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> AVPOP</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[22.302500000000002, 89.01388888888889]</p>' + 
+'<p>No of routes:L507</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> BACOM</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[12.848611111111111, 79.50055555555555]</p>' + 
+'<p>No of routes:J18</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> BADAT</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[27.81833333333333, 75.31888888888888]</p>' + 
+'<p>No of routes:W65N</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> BASOP</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[11.86, 91.29722222222222]</p>' + 
+'<p>No of routes:L510,P761</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> BASUR</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[7.930277777777778, 78.15416666666667]</p>' + 
+'<p>No of routes:P570</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> BAVAN</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[23.069166666666668, 89.99166666666667]</p>' + 
+'<p>No of routes:B593</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> BAVOX</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[26.141944444444444, 77.21555555555555]</p>' + 
+'<p>No of routes:J1,L333,Q24,W20</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> BEBOK</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[10.725, 80.09333333333333]</p>' + 
+'<p>No of routes:A465,T3</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> BEDIL</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[12.583333333333334, 71.99944444444445]</p>' + 
+'<p>No of routes:L875</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> BEDOL</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[17.760833333333334, 73.9263888888889]</p>' + 
+'<p>No of routes:Q26,Q8</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> BEDUX</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[22.316944444444445, 79.70722222222223]</p>' + 
+'<p>No of routes:W140</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> BEGON</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[22.63138888888889, 74.13388888888889]</p>' + 
+'<p>No of routes:G472,N895,Q2</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> BEGUM</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[23.148611111111112, 80.76277777777777]</p>' + 
+'<p>No of routes:W138</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> BEKUT</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[17.722499999999997, 73.21805555555555]</p>' + 
+'<p>No of routes:N571,Q13,Q9,W15</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> BEMAK</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[22.927500000000002, 88.89888888888889]</p>' + 
+'<p>No of routes:A462</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> BERPO</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[21.000833333333333, 69.74972222222222]</p>' + 
+'<p>No of routes:W103</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> BETKU</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[20.4775, 72.01611111111112]</p>' + 
+'<p>No of routes:L301,W61</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> BEVSU</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[19.446944444444444, 77.25916666666667]</p>' + 
+'<p>No of routes:L301,L518</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> BHITI</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[25.325555555555557, 82.25222222222222]</p>' + 
+'<p>No of routes:G590,W33N,W33S</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> BIBGO</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[7.5, 70.94666666666667]</p>' + 
+'<p>No of routes:L894</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> BIDEX</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[15.268055555555556, 87.43916666666667]</p>' + 
+'<p>No of routes:L510</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> BIGIL</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[22.11722222222222, 77.56555555555555]</p>' + 
+'<p>No of routes:J3,N877,W20</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> BIKEN</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[10.205833333333333, 88.53083333333333]</p>' + 
+'<p>No of routes:N571,P762</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> BIKIK</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[24.779722222222222, 87.7975]</p>' + 
+'<p>No of routes:A201,A467,G463,W69</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> BIKOK</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[8.285, 78.59861111111111]</p>' + 
+'<p>No of routes:M641,N640,P895</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> BIKUX</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[32.57277777777778, 75.50083333333333]</p>' + 
+'<p>No of routes:W34</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> BILAM</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[15.605555555555556, 80.85972222222222]</p>' + 
+'<p>No of routes:V11,V9</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> BILAN</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[25.00027777777778, 77.84055555555555]</p>' + 
+'<p>No of routes:W10N,W10S</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> BILUN</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[18.684444444444445, 82.81472222222222]</p>' + 
+'<p>No of routes:W66</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> BIMOT</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[19.87, 70.35166666666666]</p>' + 
+'<p>No of routes:V1,V2</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> BIPEL</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[10.442222222222222, 75.67111111111112]</p>' + 
+'<p>No of routes:T6</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> BIPUL</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[25.169722222222223, 91.81555555555555]</p>' + 
+'<p>No of routes:R472</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> BIRAT</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[26.352777777777778, 87.30416666666666]</p>' + 
+'<p>No of routes:A467,R344</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> BIRGA</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[26.898611111111112, 85.00833333333334]</p>' + 
+'<p>No of routes:G336</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> BISET</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[18.389166666666664, 69.30166666666666]</p>' + 
+'<p>No of routes:P574,P751</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> BITEM</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[17.154444444444444, 82.13333333333334]</p>' + 
+'<p>No of routes:V46,W47</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> BIXON</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[19.915555555555553, 86.71361111111112]</p>' + 
+'<p>No of routes:G472,N895,Q10</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> BOBED</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[18.00111111111111, 79.92833333333334]</p>' + 
+'<p>No of routes:W38</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> BOBET</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[24.00888888888889, 78.54444444444444]</p>' + 
+'<p>No of routes:G590,P628,W40,W68</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> BODAR</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[22.60527777777778, 74.2213888888889]</p>' + 
+'<p>No of routes:A474,G472,G590,N895,W10N,W40</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> BODEL</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[14.975277777777778, 79.42]</p>' + 
+'<p>No of routes:Q24,W148,W20,W47,W96</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> BODOG</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[26.026944444444442, 83.58194444444445]</p>' + 
+'<p>No of routes:A201,G590,Q18,W45</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> BOFIN</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[20.7125, 72.4588888888889]</p>' + 
+'<p>No of routes:G210,V47,W13S,W16S</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> BOGAT</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[16.359444444444446, 75.99888888888889]</p>' + 
+'<p>No of routes:B466,N571,W120</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> BOGOP</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[26.733888888888888, 89.74722222222222]</p>' + 
+'<p>No of routes:R598</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> BOKAD</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[31.880277777777778, 75.5125]</p>' + 
+'<p>No of routes:W30E,W30W,W31E,W31W</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> BOKEV</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[20.9175, 88.25583333333333]</p>' + 
+'<p>No of routes:M773</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> BOLIS</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[20.559166666666666, 65.00055555555555]</p>' + 
+'<p>No of routes:P574</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> BOLUR</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[17.011388888888888, 63.1225]</p>' + 
+'<p>No of routes:L894,P751,T208</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> BOLUS</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[20.11388888888889, 86.17111111111112]</p>' + 
+'<p>No of routes:G472,N895,Q11</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> BOLUX</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[30.787222222222223, 75.07388888888889]</p>' + 
+'<p>No of routes:W108E,W108W,W109E,W109W</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> BORBU</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[16.89611111111111, 92.0]</p>' + 
+'<p>No of routes:L524</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> BOSGA</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[16.209444444444443, 78.23777777777778]</p>' + 
+'<p>No of routes:Q22,W59</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> BUBKO</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[19.184444444444445, 88.66416666666667]</p>' + 
+'<p>No of routes:G472,M770,M773,N895</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> BUBNU</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[26.440277777777776, 75.07194444444444]</p>' + 
+'<p>No of routes:Q1,Q3</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> BUBVA</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[14.846944444444444, 76.58277777777778]</p>' + 
+'<p>No of routes:W48,W59</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> BUDGO</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[20.948888888888888, 71.70166666666667]</p>' + 
+'<p>No of routes:W61</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> BUDVI</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[22.47, 72.20305555555557]</p>' + 
+'<p>No of routes:W162</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> BUKLO</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[25.00027777777778, 77.25722222222223]</p>' + 
+'<p>No of routes:Q24,W20</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> BULDI</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[24.412777777777777, 76.93055555555556]</p>' + 
+'<p>No of routes:Q23,W19</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> BUMRO</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[20.47083333333333, 87.2]</p>' + 
+'<p>No of routes:M770,Q10</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> BUSBO</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[19.249444444444446, 78.125]</p>' + 
+'<p>No of routes:J3,L301,L505,W20,W27</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> BUSUX</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[3.9166666666666665, 60.0]</p>' + 
+'<p>No of routes:N628</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> BUTOP</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[29.329166666666666, 75.39888888888889]</p>' + 
+'<p>No of routes:A589,M875,W30W,W31W</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> CHILA</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[22.384166666666665, 92.74888888888889]</p>' + 
+'<p>No of routes:A599</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> CLAVA</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[1.77, 60.0]</p>' + 
+'<p>No of routes:B459,L756</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> DABAR</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[10.0, 80.08166666666666]</p>' + 
+'<p>No of routes:A465,V7</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> DABEN</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[17.40694444444444, 90.54583333333333]</p>' + 
+'<p>No of routes:L524,M770,W112</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> DABKI</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[23.240555555555556, 78.68833333333333]</p>' + 
+'<p>No of routes:A791,L510</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> DADSO</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[22.752777777777776, 84.57638888888889]</p>' + 
+'<p>No of routes:M875,Q19,W100</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> DAGNI</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[14.296666666666667, 78.8236111111111]</p>' + 
+'<p>No of routes:B466,V42,W47,W72</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> DAKEB</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[26.450555555555553, 92.24666666666667]</p>' + 
+'<p>No of routes:J11</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> DAKLU</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[22.14611111111111, 87.255]</p>' + 
+'<p>No of routes:J4</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> DAMAK</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[24.01638888888889, 72.66722222222222]</p>' + 
+'<p>No of routes:A791</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> DAMKI</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[20.475555555555555, 83.91583333333334]</p>' + 
+'<p>No of routes:J4,W113W</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> DARMI</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[17.795, 70.5775]</p>' + 
+'<p>No of routes:G450,P574</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> DEMON</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[8.558055555555557, 78.94]</p>' + 
+'<p>No of routes:R461</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> DIPAS</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[27.6375, 75.86416666666666]</p>' + 
+'<p>No of routes:A347,Q1,R218,W13N</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> DIVTA</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[21.5025, 80.5936111111111]</p>' + 
+'<p>No of routes:G450,L510,V38</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> DODUD</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[26.60027777777778, 85.01444444444445]</p>' + 
+'<p>No of routes:G336</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> DOGAP</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[18.809166666666666, 73.41666666666667]</p>' + 
+'<p>No of routes:W134</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> DOGBU</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[13.441666666666666, 73.0]</p>' + 
+'<p>No of routes:T5,T8</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> DOGEM</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[17.16777777777778, 85.30611111111111]</p>' + 
+'<p>No of routes:L301,L510</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> DOGET</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[21.1175, 66.00027777777778]</p>' + 
+'<p>No of routes:N571,W103</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> DOKET</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[15.556666666666667, 81.84027777777777]</p>' + 
+'<p>No of routes:A465</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> DOLKI</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[15.405833333333334, 77.06722222222221]</p>' + 
+'<p>No of routes:Q8,W59</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> DOLPI</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[12.778055555555556, 73.45305555555557]</p>' + 
+'<p>No of routes:L875,M300</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> DOMET</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[25.141666666666666, 81.44166666666668]</p>' + 
+'<p>No of routes:G590,M875</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> DONSA</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[14.588333333333335, 65.19333333333334]</p>' + 
+'<p>No of routes:G450,L894,P323,UL425,UM551</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> DOPID</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[20.9175, 89.20444444444445]</p>' + 
+'<p>No of routes:P646,W111,W112</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> DOPOS</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[28.816666666666666, 79.03194444444445]</p>' + 
+'<p>No of routes:W37</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> DOPSU</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[12.973611111111111, 79.35833333333333]</p>' + 
+'<p>No of routes:Q9</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> DORAM</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[15.717777777777778, 77.34888888888888]</p>' + 
+'<p>No of routes:B466,N571,W59</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> DORIL</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[19.425833333333333, 84.21444444444445]</p>' + 
+'<p>No of routes:L524,P628,W41</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> DOSAT</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[21.6925, 81.30666666666666]</p>' + 
+'<p>No of routes:G450,W66</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> DOSTO</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[21.184166666666666, 72.96194444444444]</p>' + 
+'<p>No of routes:Q1</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> DOTAT</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[10.401666666666667, 74.19083333333333]</p>' + 
+'<p>No of routes:P570,V28,V29</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> DOTEN</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[10.742777777777777, 89.99722222222222]</p>' + 
+'<p>No of routes:N877,P762</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> DOTIP</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[20.758055555555554, 72.94638888888889]</p>' + 
+'<p>No of routes:A347,G208,Q1,W10N,W11,W12N,W13N,W16N</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> DOVIR</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[20.44388888888889, 81.24833333333333]</p>' + 
+'<p>No of routes:L524,W136</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> DOXAG</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[23.973611111111108, 91.28777777777778]</p>' + 
+'<p>No of routes:R472</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> DUBOX</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[20.370833333333334, 76.83222222222221]</p>' + 
+'<p>No of routes:G450,L518</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> DUBTA</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[7.823333333333333, 91.67666666666668]</p>' + 
+'<p>No of routes:L645,P574</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> DUGOS</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[8.885, 84.79805555555555]</p>' + 
+'<p>No of routes:L896,N564,P762</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> DUKOD</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[17.438333333333333, 76.0]</p>' + 
+'<p>No of routes:Q26</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> DUKOT</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[26.690833333333334, 75.17694444444444]</p>' + 
+'<p>No of routes:Q1,W58,W65S</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> DUKUM</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[26.275555555555556, 90.66361111111112]</p>' + 
+'<p>No of routes:Q18,W137</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> DULAR</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[21.608055555555556, 77.38222222222221]</p>' + 
+'<p>No of routes:G472,N895,Q23,W19</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> DUMKA</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[24.183888888888887, 87.35277777777777]</p>' + 
+'<p>No of routes:R325,R581,V41</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> EGOGI</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[12.183333333333334, 69.0]</p>' + 
+'<p>No of routes:L875,UL425</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> EGOLU</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[14.316111111111113, 84.83111111111111]</p>' + 
+'<p>No of routes:L518</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> EGUGU</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[22.791666666666668, 73.58805555555556]</p>' + 
+'<p>No of routes:G472,N895,Q1,Q6</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> EKADI</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[20.79416666666667, 81.37027777777777]</p>' + 
+'<p>No of routes:G472,L510,N895,W136</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> EKIGA</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[23.679722222222225, 75.99888888888889]</p>' + 
+'<p>No of routes:A791</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> ELBAB</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[20.22583333333333, 81.99833333333333]</p>' + 
+'<p>No of routes:L510,L524</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> ELKEL</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[1.8166666666666667, 69.18333333333334]</p>' + 
+'<p>No of routes:G465,L516</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> ELKUX</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[29.841666666666665, 75.51138888888889]</p>' + 
+'<p>No of routes:A466,W30E,W31E</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> ELMON</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[27.059444444444445, 75.33222222222221]</p>' + 
+'<p>No of routes:L333,Q1</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> ELPED</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[21.555833333333332, 85.95777777777778]</p>' + 
+'<p>No of routes:J4</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> ELPUR</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[25.967499999999998, 87.16166666666668]</p>' + 
+'<p>No of routes:Q18</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> ELSAR</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[9.768333333333334, 87.35166666666666]</p>' + 
+'<p>No of routes:P574,P762</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> EMPUN</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[16.96388888888889, 79.2975]</p>' + 
+'<p>No of routes:L518,Q23,W26</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> EMRAK</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[19.420555555555556, 73.8711111111111]</p>' + 
+'<p>No of routes:Q20</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> EMRAN</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[8.575, 94.41666666666667]</p>' + 
+'<p>No of routes:L510</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> ENBAD</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[5.298611111111111, 67.565]</p>' + 
+'<p>No of routes:A474,L516</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> ENTAP</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[22.07638888888889, 83.46944444444445]</p>' + 
+'<p>No of routes:L759,Q20,V60,W100,W49</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> ENTUG</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[17.210277777777776, 74.25888888888889]</p>' + 
+'<p>No of routes:J5,N571</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> EPDAD</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[24.641666666666666, 75.79194444444444]</p>' + 
+'<p>No of routes:V30,W122N</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> EPKOS</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[16.885555555555555, 74.12027777777777]</p>' + 
+'<p>No of routes:B211,J5,Q9,V59,W126,W128,W67</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> ERVIS</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[17.09111111111111, 72.05388888888889]</p>' + 
+'<p>No of routes:A474,P574</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> ESDOT</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[21.34583333333333, 90.54722222222222]</p>' + 
+'<p>No of routes:L507</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> ESMIT</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[9.733888888888888, 69.17222222222223]</p>' + 
+'<p>No of routes:A474,L894</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> EXOLU</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[20.21388888888889, 71.56944444444444]</p>' + 
+'<p>No of routes:B342,L505,M638,N519,W14</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> EXUNA</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[24.384999999999998, 84.49777777777778]</p>' + 
+'<p>No of routes:W106A</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> GAURA</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[26.746111111111112, 85.31444444444445]</p>' + 
+'<p>No of routes:G463,R581</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> GIDAS</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[14.335833333333333, 60.00111111111111]</p>' + 
+'<p>No of routes:P323</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> GIRNA</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[11.585, 83.31472222222222]</p>' + 
+'<p>No of routes:P574,V6</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> GIVEK</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[20.429722222222225, 76.0]</p>' + 
+'<p>No of routes:Q19</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> GOBIG</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[3.2369444444444446, 68.52555555555556]</p>' + 
+'<p>No of routes:L516,L756</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> GOKUL</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[10.735555555555555, 79.69611111111111]</p>' + 
+'<p>No of routes:T3,V7</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> GOKUM</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[12.340277777777779, 70.16805555555555]</p>' + 
+'<p>No of routes:A474,L875</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> GOLAN</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[20.814722222222223, 87.50277777777778]</p>' + 
+'<p>No of routes:Q10</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> GOLEM</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[11.960833333333333, 67.37027777777777]</p>' + 
+'<p>No of routes:B459,L875,L894</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> GOLOX</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[23.206944444444442, 79.56777777777778]</p>' + 
+'<p>No of routes:W139</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> GOLPO</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[27.216944444444444, 75.39888888888889]</p>' + 
+'<p>No of routes:Q1</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> GOMTI</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[24.02861111111111, 74.08055555555555]</p>' + 
+'<p>No of routes:A791,Q1,Q4</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> GOPNU</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[15.853333333333333, 82.03999999999999]</p>' + 
+'<p>No of routes:A465,L518</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> GOSBI</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[23.68138888888889, 87.29055555555556]</p>' + 
+'<p>No of routes:B209,V41,W52</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> GUDUM</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[25.966944444444444, 75.4725]</p>' + 
+'<p>No of routes:A474,R462,W13S</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> GUGAL</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[30.241666666666667, 73.96583333333334]</p>' + 
+'<p>No of routes:M875</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> GUGIP</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[26.93888888888889, 81.46666666666667]</p>' + 
+'<p>No of routes:B345,L509</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> GULAM</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[15.13861111111111, 75.99888888888889]</p>' + 
+'<p>No of routes:P574</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> GULGA</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[26.798611111111114, 92.97805555555556]</p>' + 
+'<p>No of routes:J11</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> GULUP</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[16.391666666666666, 73.80833333333334]</p>' + 
+'<p>No of routes:Q13</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> GUMIT</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[18.991944444444446, 77.46722222222222]</p>' + 
+'<p>No of routes:L518,W19</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> GUNDI</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[17.360277777777778, 71.49333333333334]</p>' + 
+'<p>No of routes:B459,P574</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> GUNIM</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[14.085555555555556, 75.53583333333333]</p>' + 
+'<p>No of routes:N563,R458,R461,W101W</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> GURAS</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[14.001388888888888, 80.83166666666666]</p>' + 
+'<p>No of routes:A465,N571,Q11</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> GUREV</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[22.95777777777778, 68.37805555555555]</p>' + 
+'<p>No of routes:L639,N519</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> GURTI</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[27.729444444444443, 77.79444444444444]</p>' + 
+'<p>No of routes:L759,W10S,W33S</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> GURVI</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[22.56722222222222, 79.43194444444445]</p>' + 
+'<p>No of routes:L510,T1,W139</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> GUTBO</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[10.926944444444445, 74.49472222222222]</p>' + 
+'<p>No of routes:T6</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> GUTEG</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[9.183333333333334, 77.53166666666667]</p>' + 
+'<p>No of routes:P895,R457</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> GUTID</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[21.078055555555554, 84.93111111111112]</p>' + 
+'<p>No of routes:J4,W50</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> GUTNA</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[16.31972222222222, 73.24666666666667]</p>' + 
+'<p>No of routes:Q12</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> GUTNO</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[21.680555555555557, 82.0]</p>' + 
+'<p>No of routes:Q20,T1</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> HAPUR</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[7.97, 76.25361111111111]</p>' + 
+'<p>No of routes:V23,V24</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> HITAS</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[15.576666666666666, 79.94805555555556]</p>' + 
+'<p>No of routes:V4</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> HORAT</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[14.609166666666667, 74.14833333333334]</p>' + 
+'<p>No of routes:W15</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> HYDOK</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[13.6425, 80.33888888888889]</p>' + 
+'<p>No of routes:Q11,Q23,V9</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> IBANA</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[30.849722222222223, 76.28222222222222]</p>' + 
+'<p>No of routes:W36</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> IBANI</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[25.00027777777778, 76.71972222222223]</p>' + 
+'<p>No of routes:L510,P628,Q23,W19</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> IBAPA</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[25.183888888888887, 91.43583333333333]</p>' + 
+'<p>No of routes:B593</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> IBELA</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[19.375833333333333, 76.83222222222221]</p>' + 
+'<p>No of routes:L505</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> IBEPA</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[15.001111111111111, 75.545]</p>' + 
+'<p>No of routes:W56S</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> IBITA</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[18.92, 91.99694444444445]</p>' + 
+'<p>No of routes:P646</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> IBUDA</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[23.06722222222222, 82.16472222222222]</p>' + 
+'<p>No of routes:A791,L759,W49</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> IBUDU</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[15.001111111111111, 75.05694444444444]</p>' + 
+'<p>No of routes:R458</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> IBUSU</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[25.525555555555556, 83.91861111111112]</p>' + 
+'<p>No of routes:W44</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> IBVUB</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[16.743333333333336, 62.021388888888886]</p>' + 
+'<p>No of routes:L516,P751</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> IDASO</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[12.659722222222223, 83.55638888888889]</p>' + 
+'<p>No of routes:N571,P761,V3</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> IDIBI</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[8.740555555555554, 79.36305555555555]</p>' + 
+'<p>No of routes:G325</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> IDOLA</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[25.00027777777778, 75.11583333333333]</p>' + 
+'<p>No of routes:A474</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> IDSIB</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[14.808333333333334, 75.16527777777779]</p>' + 
+'<p>No of routes:R458,W101E</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> IGAMA</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[13.684722222222222, 71.99944444444445]</p>' + 
+'<p>No of routes:M300,P895,T8</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> IGANU</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[22.069444444444443, 67.93472222222222]</p>' + 
+'<p>No of routes:M638,P518</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> IGINO</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[29.01833333333333, 76.53527777777778]</p>' + 
+'<p>No of routes:A466,W30E,W31E</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> IGMAR</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[15.721666666666668, 75.99888888888889]</p>' + 
+'<p>No of routes:B211</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> IGNOS</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[23.209722222222222, 76.47916666666667]</p>' + 
+'<p>No of routes:V44</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> IGOGU</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[7.516944444444444, 94.41666666666667]</p>' + 
+'<p>No of routes:N571</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> IGOLU</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[27.523055555555555, 76.31388888888888]</p>' + 
+'<p>No of routes:A474,Q2,R462,W13S,W65S</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> IGONA</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[25.966666666666665, 80.25833333333334]</p>' + 
+'<p>No of routes:M875,W40</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> IGOTU</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[26.280555555555555, 92.32055555555556]</p>' + 
+'<p>No of routes:W51</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> IGREX</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[9.724444444444444, 94.41666666666667]</p>' + 
+'<p>No of routes:P628</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> IKATI</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[14.48472222222222, 74.76583333333333]</p>' + 
+'<p>No of routes:N563,Q13,W17N,W17S</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> IKAVA</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[25.904722222222222, 76.39888888888889]</p>' + 
+'<p>No of routes:J5,Q23,W122S,W19</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> IKIKO</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[22.254722222222224, 77.36555555555555]</p>' + 
+'<p>No of routes:N877,W19</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> IKINA</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[21.450833333333332, 81.99805555555555]</p>' + 
+'<p>No of routes:P628</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> IKOSI</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[20.717499999999998, 81.94833333333334]</p>' + 
+'<p>No of routes:G472,N895,W66</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> INTIL</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[26.464166666666667, 76.54472222222222]</p>' + 
+'<p>No of routes:J1,J5,L333,Q23,W19</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> INTIX</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[24.217499999999998, 74.1563888888889]</p>' + 
+'<p>No of routes:A325,Q1</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> IPKAX</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[21.465833333333332, 76.29777777777778]</p>' + 
+'<p>No of routes:L518,W146</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> IPLAS</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[26.328055555555554, 85.65361111111112]</p>' + 
+'<p>No of routes:G335,G463,R581</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> IPNIB</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[20.941111111111113, 72.40027777777779]</p>' + 
+'<p>No of routes:G210,W13S,W144,W16S</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> ISLIL</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[22.877222222222223, 69.70194444444445]</p>' + 
+'<p>No of routes:L639</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> ISMON</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[19.11777777777778, 85.26444444444445]</p>' + 
+'<p>No of routes:A465,L524,W90</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> ISPUL</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[15.112222222222222, 79.82416666666666]</p>' + 
+'<p>No of routes:Q23</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> ITBAN</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[27.828611111111112, 77.71333333333334]</p>' + 
+'<p>No of routes:L759,W10S,W33S</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> JALES</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[26.63611111111111, 85.86416666666666]</p>' + 
+'<p>No of routes:G335</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> JANAK</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[26.653333333333332, 85.95666666666666]</p>' + 
+'<p>No of routes:R325</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> KABEL</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[27.733333333333334, 73.83777777777777]</p>' + 
+'<p>No of routes:L333</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> KABIM</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[23.500555555555554, 66.3586111111111]</p>' + 
+'<p>No of routes:P518</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> KABSO</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[17.0875, 72.81944444444444]</p>' + 
+'<p>No of routes:Q12,R461,W17N</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> KADAS</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[27.33361111111111, 79.48166666666667]</p>' + 
+'<p>No of routes:R460</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> KADOL</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[19.000833333333333, 63.60055555555556]</p>' + 
+'<p>No of routes:M300</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> KAGBI</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[21.939444444444444, 83.33888888888889]</p>' + 
+'<p>No of routes:V60,V62</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> KAGUL</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[18.7375, 84.97916666666667]</p>' + 
+'<p>No of routes:P628,Q11</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> KAKIB</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[15.001111111111111, 73.78527777777778]</p>' + 
+'<p>No of routes:N563</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> KAKID</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[20.6425, 86.9975]</p>' + 
+'<p>No of routes:A465,M770,M875,W41</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> KAKPO</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[19.76, 74.01583333333333]</p>' + 
+'<p>No of routes:Q17,W158,W159</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> KAMLO</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[20.91916666666667, 77.80083333333333]</p>' + 
+'<p>No of routes:Q19,W20</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> KAMOL</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[19.634166666666665, 73.66583333333334]</p>' + 
+'<p>No of routes:L505</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> KANTI</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[14.22638888888889, 74.29722222222222]</p>' + 
+'<p>No of routes:Q12,W15</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> KARKU</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[20.974444444444444, 69.11083333333333]</p>' + 
+'<p>No of routes:L301,M638,P518,V1,W103</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> KASRO</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[15.674999999999999, 82.36666666666666]</p>' + 
+'<p>No of routes:L518,Q11</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> KATBI</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[19.52583333333333, 65.00055555555555]</p>' + 
+'<p>No of routes:N563</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> KIBUD</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[14.0475, 91.82972222222222]</p>' + 
+'<p>No of routes:W112</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> KIKUR</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[15.981944444444444, 79.17555555555556]</p>' + 
+'<p>No of routes:Q24</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> KINKI</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[22.321666666666665, 83.92722222222223]</p>' + 
+'<p>No of routes:G450,W100,W50</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> KITAL</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[20.05, 60.3]</p>' + 
+'<p>No of routes:L516,L894,P570</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> LADER</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[12.222222222222223, 94.03055555555555]</p>' + 
+'<p>No of routes:L759,P762</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> LAGOG</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[8.594166666666668, 91.99722222222222]</p>' + 
+'<p>No of routes:N571,N877</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> LAKET</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[31.116388888888892, 75.48222222222222]</p>' + 
+'<p>No of routes:M890,W36</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> LAMBU</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[18.285555555555558, 87.83388888888888]</p>' + 
+'<p>No of routes:L524,L759</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> LAPAN</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[23.731944444444444, 83.43555555555555]</p>' + 
+'<p>No of routes:B209,M875,W50</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> LARIK</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[18.834444444444443, 84.87277777777777]</p>' + 
+'<p>No of routes:A465,P628,W90</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> LAROB</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[19.170555555555556, 78.39444444444445]</p>' + 
+'<p>No of routes:Q24,V49</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> LATEB</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[17.284444444444446, 64.36722222222221]</p>' + 
+'<p>No of routes:P570,P751</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> LATID</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[14.47638888888889, 77.94888888888889]</p>' + 
+'<p>No of routes:Q22,W121,W48,W57,W71</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> LATOS</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[26.95861111111111, 73.36583333333333]</p>' + 
+'<p>No of routes:P628</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> LAXEN</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[26.0675, 92.33666666666666]</p>' + 
+'<p>No of routes:J7</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> LAXIK</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[12.5025, 79.45361111111112]</p>' + 
+'<p>No of routes:W115</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> LAXOM</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[22.808333333333334, 70.83333333333333]</p>' + 
+'<p>No of routes:L639,W135,W143,W74</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> LEBIS</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[16.22694444444444, 89.2875]</p>' + 
+'<p>No of routes:L301,W111</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> LEDOB</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[16.614444444444445, 78.68444444444445]</p>' + 
+'<p>No of routes:W20</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> LEGOS</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[21.634166666666665, 88.08916666666666]</p>' + 
+'<p>No of routes:A465,M773,W41</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> LEKAP</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[12.084722222222222, 79.59861111111111]</p>' + 
+'<p>No of routes:N563,T5</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> LELAX</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[32.39138888888889, 77.63194444444444]</p>' + 
+'<p>No of routes:W39</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> LELIT</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[18.07611111111111, 67.825]</p>' + 
+'<p>No of routes:N563,P751</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> LEMAX</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[17.61777777777778, 65.78361111111111]</p>' + 
+'<p>No of routes:M300,P751</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> LEMEX</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[19.909166666666664, 86.15611111111112]</p>' + 
+'<p>No of routes:A465,L759</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> LENBO</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[11.442777777777778, 77.13722222222223]</p>' + 
+'<p>No of routes:W43</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> LETPU</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[27.539166666666667, 77.46666666666667]</p>' + 
+'<p>No of routes:L760,W10N,W33N</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> LEVLU</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[3.1358333333333333, 68.0]</p>' + 
+'<p>No of routes:N628</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> LIBDI</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[14.251388888888888, 91.99694444444445]</p>' + 
+'<p>No of routes:L759</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> LIGSA</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[25.420833333333334, 93.82972222222222]</p>' + 
+'<p>No of routes:V56,W55</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> LIPDU</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[21.891944444444444, 76.53833333333333]</p>' + 
+'<p>No of routes:G472,N895,W146</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> LOLTO</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[25.141944444444444, 74.53222222222222]</p>' + 
+'<p>No of routes:Q1,Q5</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> LOTAV</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[20.616666666666667, 60.95]</p>' + 
+'<p>No of routes:M300</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> LOTPU</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[26.10138888888889, 87.94166666666668]</p>' + 
+'<p>No of routes:Q18,W105,W69</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> LUKTI</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[18.241666666666667, 74.70083333333334]</p>' + 
+'<p>No of routes:J5,W28</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> LULDA</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[12.395833333333332, 94.41666666666667]</p>' + 
+'<p>No of routes:P762</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> LUMBI</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[27.427500000000002, 83.18416666666667]</p>' + 
+'<p>No of routes:B345</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> LUNTA</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[11.383333333333333, 76.32444444444444]</p>' + 
+'<p>No of routes:Q13,V34</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> LURGI</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[16.209444444444443, 78.51472222222222]</p>' + 
+'<p>No of routes:Q21,W71</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> LUXIP</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[20.015, 76.0]</p>' + 
+'<p>No of routes:Q20</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> MABDU</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[18.990555555555556, 83.35666666666665]</p>' + 
+'<p>No of routes:L510</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> MABTA</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[17.141388888888887, 73.36277777777777]</p>' + 
+'<p>No of routes:B211,Q13,R458,W15,W17S,W56S</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> MABUR</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[16.016666666666666, 90.16833333333334]</p>' + 
+'<p>No of routes:L301,L759</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> MADOG</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[16.202777777777776, 73.90416666666667]</p>' + 
+'<p>No of routes:P574,Q13,W17N</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> MAGIL</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[25.966666666666665, 93.38333333333334]</p>' + 
+'<p>No of routes:J7</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> MAKUP</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[10.756388888888889, 76.06333333333333]</p>' + 
+'<p>No of routes:Q12</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> MALNO</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[25.68166666666667, 94.27277777777778]</p>' + 
+'<p>No of routes:V56,W166</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> MANDU</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[16.683333333333334, 61.778055555555554]</p>' + 
+'<p>No of routes:P751,UL425</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> MARVA</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[16.60777777777778, 81.32027777777778]</p>' + 
+'<p>No of routes:V58</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> MATPA</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[10.922222222222222, 77.76]</p>' + 
+'<p>No of routes:J13,J14,J16</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> MAVLA</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[20.820833333333333, 86.79166666666667]</p>' + 
+'<p>No of routes:M875,Q11</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> MECHI</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[26.768055555555556, 88.18194444444445]</p>' + 
+'<p>No of routes:G348</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> MELAX</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[19.498611111111114, 75.6325]</p>' + 
+'<p>No of routes:J2,L505,W18,W218,W75</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> MEMAK</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[6.0, 93.08333333333333]</p>' + 
+'<p>No of routes:N563</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> MEMID</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[25.608611111111113, 78.29861111111111]</p>' + 
+'<p>No of routes:J1,L333</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> MEMIR</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[24.550555555555555, 87.14750000000001]</p>' + 
+'<p>No of routes:R325</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> MEPAR</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[24.000833333333333, 91.86361111111111]</p>' + 
+'<p>No of routes:W54,W55,W84</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> MEPAT</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[17.192777777777778, 69.54972222222221]</p>' + 
+'<p>No of routes:G450,N563</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> MEPEL</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[16.033333333333335, 92.0]</p>' + 
+'<p>No of routes:M770</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> MEPIP</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[18.529166666666665, 80.58055555555555]</p>' + 
+'<p>No of routes:J4,W136</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> MEPOK</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[18.07027777777778, 81.99833333333333]</p>' + 
+'<p>No of routes:L301</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> MEPOL</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[19.662499999999998, 84.67277777777778]</p>' + 
+'<p>No of routes:W41</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> MERUN</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[28.480555555555554, 72.24833333333333]</p>' + 
+'<p>No of routes:G333,G452,L333</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> MESAN</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[16.267777777777777, 67.94166666666668]</p>' + 
+'<p>No of routes:G450,M300</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> MESAR</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[33.49944444444444, 75.23222222222222]</p>' + 
+'<p>No of routes:W31E,W31W,W34</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> METIP</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[15.584444444444445, 66.83361111111111]</p>' + 
+'<p>No of routes:G450,P570</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> MIGOP</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[25.205555555555556, 88.78555555555555]</p>' + 
+'<p>No of routes:R598</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> MIKAG</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[26.539722222222224, 93.41833333333334]</p>' + 
+'<p>No of routes:W51</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> MILUP</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[22.95777777777778, 64.83333333333333]</p>' + 
+'<p>No of routes:L639</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> MINIT</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[16.046111111111113, 75.99888888888889]</p>' + 
+'<p>No of routes:W56N</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> MIPAK</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[11.833333333333334, 94.41666666666667]</p>' + 
+'<p>No of routes:L759</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> MOLGO</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[18.160555555555554, 73.385]</p>' + 
+'<p>No of routes:Q8,W126</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> MOLRU</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[11.229166666666666, 75.82083333333333]</p>' + 
+'<p>No of routes:M300,Q12</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> MOLVI</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[14.681666666666667, 78.43416666666667]</p>' + 
+'<p>No of routes:B466,V42,W153</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> MONDA</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[25.350555555555555, 86.43777777777778]</p>' + 
+'<p>No of routes:A201,G463,R581</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> MONPI</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[22.070555555555554, 75.99888888888889]</p>' + 
+'<p>No of routes:G472,J5,L518,N895,Q17</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> MOTRI</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[14.034444444444444, 77.87305555555555]</p>' + 
+'<p>No of routes:Q22,Q9</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> MOXET</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[11.029444444444445, 64.83999999999999]</p>' + 
+'<p>No of routes:L516,L875</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> MUBDO</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[22.82027777777778, 76.07555555555555]</p>' + 
+'<p>No of routes:G590,J5,Q16,W10N,W10S,W40</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> MUDIT</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[11.853055555555555, 76.0961111111111]</p>' + 
+'<p>No of routes:Q13,V33,V35</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> MURUS</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[6.0, 63.32833333333333]</p>' + 
+'<p>No of routes:A474</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> NAVIT</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[7.748888888888889, 76.50611111111111]</p>' + 
+'<p>No of routes:V22</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> NIKIR</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[18.289166666666667, 84.11388888888888]</p>' + 
+'<p>No of routes:A465,L510</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> NIKOT</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[25.88111111111111, 75.44]</p>' + 
+'<p>No of routes:A474,P628,Q2,Q5,R462,W13S</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> NINAT</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[20.546666666666667, 77.41555555555556]</p>' + 
+'<p>No of routes:G450,W19</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> NINIM</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[23.183888888888887, 75.99888888888889]</p>' + 
+'<p>No of routes:L639,N877</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> NINOB</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[16.52611111111111, 70.83305555555555]</p>' + 
+'<p>No of routes:B459,N563</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> NIPAD</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[21.871666666666666, 81.99805555555555]</p>' + 
+'<p>No of routes:G450</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> NIPUX</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[19.898888888888887, 82.90416666666667]</p>' + 
+'<p>No of routes:J4,L524</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> NISUN</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[13.934722222222222, 92.33027777777778]</p>' + 
+'<p>No of routes:L759</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> NITIX</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[15.117777777777778, 69.74972222222222]</p>' + 
+'<p>No of routes:B459,M300</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> NIVUD</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[14.084722222222222, 68.98333333333333]</p>' + 
+'<p>No of routes:B459,P570</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> NOBOD</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[14.911666666666667, 73.95583333333333]</p>' + 
+'<p>No of routes:N563,Q12</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> NOBOM</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[26.150277777777777, 78.81527777777778]</p>' + 
+'<p>No of routes:L759,W33N,W33S</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> NODAX</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[17.229166666666664, 83.6875]</p>' + 
+'<p>No of routes:N877,Q11</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> NOKAT</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[22.790833333333335, 88.94166666666668]</p>' + 
+'<p>No of routes:B593</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> NOKID</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[6.0, 74.95777777777778]</p>' + 
+'<p>No of routes:R457,V22,V23</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> NOKOK</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[26.173333333333336, 74.96027777777778]</p>' + 
+'<p>No of routes:P628,Q1</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> NOLOV</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[18.25611111111111, 81.99833333333333]</p>' + 
+'<p>No of routes:W41</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> NOMAG</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[27.148333333333333, 94.64472222222223]</p>' + 
+'<p>No of routes:V55,W51</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> NOPEK</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[6.603888888888888, 94.41666666666667]</p>' + 
+'<p>No of routes:P574</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> NUSRU</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[19.29527777777778, 77.92277777777778]</p>' + 
+'<p>No of routes:L301,Q23</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> ODOLI</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[11.618055555555555, 69.88305555555554]</p>' + 
+'<p>No of routes:A474,UL425</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> ODUMI</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[22.220555555555553, 80.42194444444445]</p>' + 
+'<p>No of routes:T1</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> OGUNA</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[21.484444444444446, 82.6725]</p>' + 
+'<p>No of routes:T1,V60,W160</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> OKILA</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[16.592777777777776, 73.10777777777777]</p>' + 
+'<p>No of routes:P574,Q12,R461,W17N</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> OLNIK</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[12.480555555555556, 71.24444444444444]</p>' + 
+'<p>No of routes:L875,P570</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> OLSOR</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[17.358333333333334, 84.5]</p>' + 
+'<p>No of routes:L301,Q10</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> OMLEG</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[20.904166666666665, 79.275]</p>' + 
+'<p>No of routes:N877,Q20</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> OMUPA</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[27.00027777777778, 84.78777777777778]</p>' + 
+'<p>No of routes:G590</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> ONATI</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[19.995555555555555, 86.06777777777778]</p>' + 
+'<p>No of routes:L759,Q11</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> ONISA</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[28.968888888888888, 80.0925]</p>' + 
+'<p>No of routes:L626</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> ONOGI</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[30.4, 77.19861111111112]</p>' + 
+'<p>No of routes:M890,W35</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> ONOTO</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[24.273888888888887, 87.95805555555556]</p>' + 
+'<p>No of routes:A467,W69</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> OPAKA</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[19.605833333333333, 74.54944444444445]</p>' + 
+'<p>No of routes:G450,L505,Q20,W18,W218</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> OPAMO</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[14.593055555555557, 77.09055555555555]</p>' + 
+'<p>No of routes:P574,Q9,W121,W48,W56N</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> OPASA</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[20.584166666666665, 82.9563888888889]</p>' + 
+'<p>No of routes:G472,N895,P628</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> OPESU</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[23.480277777777776, 87.02916666666667]</p>' + 
+'<p>No of routes:B209,R460,V41</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> OPIMO</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[26.58277777777778, 88.93055555555556]</p>' + 
+'<p>No of routes:Q18,W137</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> OPIRA</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[16.101111111111113, 71.64944444444446]</p>' + 
+'<p>No of routes:A474,N563,T5</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> OPONI</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[21.784166666666668, 81.64]</p>' + 
+'<p>No of routes:G450,P628,T1</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> ORARA</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[15.984444444444444, 84.91444444444446]</p>' + 
+'<p>No of routes:N877</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> ORISA</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[12.263055555555555, 74.26833333333333]</p>' + 
+'<p>No of routes:M300</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> ORLID</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[11.285, 60.00111111111111]</p>' + 
+'<p>No of routes:G450</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> OROTI</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[29.283333333333335, 75.49888888888889]</p>' + 
+'<p>No of routes:W108W,W109W</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> OSBEM</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[20.916666666666668, 76.0]</p>' + 
+'<p>No of routes:J5</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> OSEPU</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[23.153888888888886, 76.98527777777778]</p>' + 
+'<p>No of routes:G590,Q16,Q23,W10N,W10S,W40</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> OSIRI</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[14.351388888888888, 70.94972222222222]</p>' + 
+'<p>No of routes:A474,M300</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> OSRAM</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[27.483611111111113, 77.14611111111111]</p>' + 
+'<p>No of routes:Q24,W20</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> OSRUB</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[22.601944444444445, 75.47055555555556]</p>' + 
+'<p>No of routes:Q16,W157</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> OSUPI</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[15.0, 72.20555555555556]</p>' + 
+'<p>No of routes:T5</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> OSVAS</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[21.338055555555556, 80.775]</p>' + 
+'<p>No of routes:L510,Q20</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> OSVIN</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[17.7, 74.31694444444445]</p>' + 
+'<p>No of routes:Q26</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> OTABA</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[22.184166666666666, 83.32305555555556]</p>' + 
+'<p>No of routes:G450,L759,W49</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> OTABI</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[13.051388888888889, 70.44972222222222]</p>' + 
+'<p>No of routes:A474,P570</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> OTKIR</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[2.4386111111111113, 60.0]</p>' + 
+'<p>No of routes:G465</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> PADBI</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[15.232222222222223, 78.35833333333333]</p>' + 
+'<p>No of routes:Q21</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> PAGDA</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[26.47222222222222, 89.56833333333333]</p>' + 
+'<p>No of routes:Q18,R598,W137</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> PAKDU</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[23.111944444444447, 76.10583333333332]</p>' + 
+'<p>No of routes:J5,N877</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> PALKO</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[20.050833333333333, 86.32277777777777]</p>' + 
+'<p>No of routes:A465</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> PALMU</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[21.92777777777778, 81.48055555555555]</p>' + 
+'<p>No of routes:P628,Q19</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> PAMTO</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[14.861388888888888, 74.50777777777778]</p>' + 
+'<p>No of routes:R461,W101W</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> PAPLI</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[24.372777777777777, 91.51833333333333]</p>' + 
+'<p>No of routes:R472</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> PAPVO</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[20.853055555555557, 77.5586111111111]</p>' + 
+'<p>No of routes:Q19,Q23</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> PARAR</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[22.441666666666666, 63.11666666666667]</p>' + 
+'<p>No of routes:N571</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> PARO</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[27.433611111111112, 89.48055555555555]</p>' + 
+'<p>No of routes:R598</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> PAROT</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[24.01, 83.82583333333334]</p>' + 
+'<p>No of routes:W73W</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> PARSA</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[27.139444444444443, 84.665]</p>' + 
+'<p>No of routes:G598</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> PARTY</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[24.24388888888889, 70.86638888888888]</p>' + 
+'<p>No of routes:G208,G451,N895</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> PATKA</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[17.670833333333334, 84.76666666666667]</p>' + 
+'<p>No of routes:L510,Q10</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> PEDMA</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[18.97722222222222, 77.99694444444445]</p>' + 
+'<p>No of routes:Q23,W27</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> PEGNU</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[21.154166666666665, 75.2025]</p>' + 
+'<p>No of routes:Q17,W156</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> PEKIX</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[28.75, 75.88222222222221]</p>' + 
+'<p>No of routes:G333</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> PEKSO</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[16.205277777777777, 73.98083333333334]</p>' + 
+'<p>No of routes:W67</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> PEXEG</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[13.070833333333333, 76.04166666666667]</p>' + 
+'<p>No of routes:L875,R461,T5,W81</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> PIGUT</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[19.710277777777776, 76.08833333333332]</p>' + 
+'<p>No of routes:J2</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> POLOT</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[25.600555555555555, 91.50111111111111]</p>' + 
+'<p>No of routes:B593,W110</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> POMAN</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[11.934722222222222, 71.99944444444445]</p>' + 
+'<p>No of routes:P570,R329,T6,T7</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> POMUT</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[11.669444444444444, 75.5961111111111]</p>' + 
+'<p>No of routes:Q12</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> PONOG</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[21.378055555555555, 88.00111111111111]</p>' + 
+'<p>No of routes:Q10</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> POPET</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[7.228611111111111, 68.22666666666667]</p>' + 
+'<p>No of routes:A474</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> POREG</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[24.350833333333334, 92.7925]</p>' + 
+'<p>No of routes:W54,W82</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> POSIG</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[27.216944444444444, 77.58194444444445]</p>' + 
+'<p>No of routes:L760,W10N,W123,W33N</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> POSIN</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[20.27861111111111, 75.45777777777778]</p>' + 
+'<p>No of routes:Q19</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> POTAS</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[17.5, 83.92083333333333]</p>' + 
+'<p>No of routes:L301,Q11</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> POXOD</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[7.5, 72.93]</p>' + 
+'<p>No of routes:R329</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> PUKES</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[24.700555555555553, 77.27]</p>' + 
+'<p>No of routes:P628,Q24,W20</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> PUKIR</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[15.291666666666666, 75.70444444444445]</p>' + 
+'<p>No of routes:W48</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> PUKON</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[25.72472222222222, 92.06083333333333]</p>' + 
+'<p>No of routes:W110,W53</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> PUMOT</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[28.466666666666665, 78.78194444444445]</p>' + 
+'<p>No of routes:M890,W37</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> PUNOR</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[20.660833333333333, 74.7825]</p>' + 
+'<p>No of routes:J19,Q17</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> PUPAM</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[24.20888888888889, 84.45611111111111]</p>' + 
+'<p>No of routes:P646</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> PURAM</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[9.050277777777778, 76.31361111111111]</p>' + 
+'<p>No of routes:V29</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> RABAN</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[31.592222222222222, 74.58083333333333]</p>' + 
+'<p>No of routes:A456</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> RAMSA</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[25.333888888888886, 70.73972222222223]</p>' + 
+'<p>No of routes:R462</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> RASKI</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[23.058333333333334, 63.86666666666667]</p>' + 
+'<p>No of routes:L301,L639</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> REBON</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[27.80027777777778, 76.5225]</p>' + 
+'<p>No of routes:A474,Q2,R462,W13S,W65S</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> REDAP</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[24.9, 88.1875]</p>' + 
+'<p>No of routes:R344</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> RENAG</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[22.053333333333335, 77.6588888888889]</p>' + 
+'<p>No of routes:Q24</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> RESMA</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[12.54888888888889, 79.35]</p>' + 
+'<p>No of routes:W114</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> REXOD</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[21.208333333333332, 61.641666666666666]</p>' + 
+'<p>No of routes:N563</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> RIBRO</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[18.71388888888889, 81.99833333333333]</p>' + 
+'<p>No of routes:N877</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> RIBTO</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[2.8925, 66.61472222222221]</p>' + 
+'<p>No of routes:A474,L756</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> RIKBU</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[15.165833333333333, 76.35944444444443]</p>' + 
+'<p>No of routes:Q9</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> RIMAV</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[16.566666666666666, 78.29638888888888]</p>' + 
+'<p>No of routes:Q22,W57,W59</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> RINDA</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[15.583333333333334, 92.0]</p>' + 
+'<p>No of routes:L301</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> RINTO</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[14.387222222222222, 80.05499999999999]</p>' + 
+'<p>No of routes:Q23</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> RITLI</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[16.833333333333332, 73.56666666666666]</p>' + 
+'<p>No of routes:Q13</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> RITNU</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[14.817499999999999, 78.29194444444444]</p>' + 
+'<p>No of routes:B466,Q21,W71</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> RITPO</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[22.95777777777778, 66.96333333333334]</p>' + 
+'<p>No of routes:L639,P518</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> RUKNI</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[25.833888888888886, 86.41000000000001]</p>' + 
+'<p>No of routes:Q18,R325</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> RULSA</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[3.5, 70.0]</p>' + 
+'<p>No of routes:L756</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> RUMUN</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[18.968055555555555, 89.2388888888889]</p>' + 
+'<p>No of routes:G472,N895,W111</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> RUNOT</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[9.493333333333332, 79.1236111111111]</p>' + 
+'<p>No of routes:G325,M300</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> RUPAK</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[26.41333333333333, 92.87777777777777]</p>' + 
+'<p>No of routes:J9,W51</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> RUPAM</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[22.95777777777778, 67.87194444444444]</p>' + 
+'<p>No of routes:L639,M638</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> RUPAT</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[8.423888888888888, 76.08472222222221]</p>' + 
+'<p>No of routes:V25,V26</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> RUSLI</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[26.061111111111114, 94.42666666666668]</p>' + 
+'<p>No of routes:V55,W166</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> RUVAN</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[8.866944444444444, 76.18055555555556]</p>' + 
+'<p>No of routes:V27,V28</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> RUXAL</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[20.88722222222222, 80.64916666666667]</p>' + 
+'<p>No of routes:G472,N895,V39</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> SABAP</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[22.55138888888889, 79.83222222222221]</p>' + 
+'<p>No of routes:W99</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> SADAP</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[12.101666666666667, 88.68916666666667]</p>' + 
+'<p>No of routes:L518,N877,P761</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> SADGU</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[19.27722222222222, 85.44305555555556]</p>' + 
+'<p>No of routes:A465,Q11</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> SADRI</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[7.693333333333333, 89.32833333333333]</p>' + 
+'<p>No of routes:L645,N563</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> SAGOD</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[17.93, 91.99694444444445]</p>' + 
+'<p>No of routes:G472,N895</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> SAKEB</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[18.11722222222222, 78.19805555555556]</p>' + 
+'<p>No of routes:Q23</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> SAKUN</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[19.6075, 71.19694444444445]</p>' + 
+'<p>No of routes:V1,V2</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> SALOR</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[25.21722222222222, 86.7625]</p>' + 
+'<p>No of routes:R325</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> SAMAK</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[7.9783333333333335, 94.41666666666667]</p>' + 
+'<p>No of routes:L645</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> SANKI</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[10.375, 76.825]</p>' + 
+'<p>No of routes:Q13</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> SANUG</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[18.92638888888889, 85.85527777777777]</p>' + 
+'<p>No of routes:L524,Q10</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> SAPLO</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[27.648333333333333, 77.1375]</p>' + 
+'<p>No of routes:Q24,W20</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> SAPNA</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[23.500555555555554, 67.83333333333333]</p>' + 
+'<p>No of routes:B342,M638,N519</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> SAPNU</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[17.83611111111111, 81.22166666666666]</p>' + 
+'<p>No of routes:W41</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> SAPUM</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[11.634444444444444, 77.95527777777778]</p>' + 
+'<p>No of routes:V45,W114</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> SARAL</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[27.1825, 93.8436111111111]</p>' + 
+'<p>No of routes:J11</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> SAREK</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[24.133888888888887, 86.76416666666667]</p>' + 
+'<p>No of routes:W52</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> SASRO</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[24.07138888888889, 70.99972222222222]</p>' + 
+'<p>No of routes:A791,G208,G451,N895</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> SATBI</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[11.40611111111111, 77.24166666666667]</p>' + 
+'<p>No of routes:W118</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> SEBMA</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[22.895833333333332, 85.14083333333333]</p>' + 
+'<p>No of routes:A791,Q19</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> SEKVI</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[19.592777777777776, 73.68416666666667]</p>' + 
+'<p>No of routes:Q17,W159</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> SUBSU</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[26.981944444444444, 88.86388888888888]</p>' + 
+'<p>No of routes:G348</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> SUDEL</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[19.571666666666665, 78.28861111111111]</p>' + 
+'<p>No of routes:Q24,W27</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> SUGAN</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[15.416666666666666, 82.84583333333333]</p>' + 
+'<p>No of routes:L518,Q10</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> SUGID</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[19.550833333333333, 69.34972222222221]</p>' + 
+'<p>No of routes:N571,V2</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> SULOM</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[31.34638888888889, 74.56583333333333]</p>' + 
+'<p>No of routes:A466,L509,M890</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> SULTO</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[7.6436111111111105, 88.03083333333333]</p>' + 
+'<p>No of routes:L645</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> SUMAG</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[22.594166666666666, 88.94055555555556]</p>' + 
+'<p>No of routes:B465</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> SUPLU</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[16.84583333333333, 84.0625]</p>' + 
+'<p>No of routes:N877,Q10</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> SUREK</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[16.03777777777778, 79.52916666666667]</p>' + 
+'<p>No of routes:Q23,V4</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> SURUP</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[20.47083333333333, 86.48333333333333]</p>' + 
+'<p>No of routes:Q11,W41</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> TAMID</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[20.688333333333333, 77.84888888888888]</p>' + 
+'<p>No of routes:G450,J3,W20</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> TANGO</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[11.586111111111112, 79.24833333333333]</p>' + 
+'<p>No of routes:R457,V7</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> TAPAS</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[11.301111111111112, 79.39916666666667]</p>' + 
+'<p>No of routes:V5,V7</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> TARAB</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[21.654444444444444, 69.66083333333334]</p>' + 
+'<p>No of routes:B342,N519</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> TASEX</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[20.565, 78.02694444444444]</p>' + 
+'<p>No of routes:Q20,Q24</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> TASOP</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[25.22222222222222, 70.79972222222221]</p>' + 
+'<p>No of routes:A325</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> TATAK</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[28.005555555555556, 80.115]</p>' + 
+'<p>No of routes:W85</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> TATUX</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[19.622222222222224, 86.45833333333334]</p>' + 
+'<p>No of routes:L759,Q10</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> TAXOP</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[25.583055555555557, 86.55388888888889]</p>' + 
+'<p>No of routes:R325,W105</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> TAXUN</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[21.31861111111111, 70.26166666666667]</p>' + 
+'<p>No of routes:B342,N519,W103,W14</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> TEBID</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[24.683888888888887, 88.03055555555555]</p>' + 
+'<p>No of routes:A201,G463</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> TEBOV</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[20.41777777777778, 91.99694444444445]</p>' + 
+'<p>No of routes:L507</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> TEGOR</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[18.584166666666665, 62.50083333333333]</p>' + 
+'<p>No of routes:P570</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> TELAR</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[7.13111111111111, 74.0]</p>' + 
+'<p>No of routes:L899,V24,V25</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> TELEM</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[24.11722222222222, 68.76666666666667]</p>' + 
+'<p>No of routes:A791,G210,G472,N893</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> TELUV</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[14.161666666666667, 78.18694444444445]</p>' + 
+'<p>No of routes:Q21,W153</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> TEPAL</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[23.811666666666667, 86.43416666666667]</p>' + 
+'<p>No of routes:G335,R460</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> TOTOX</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[21.841666666666665, 62.375]</p>' + 
+'<p>No of routes:P574</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> TULNA</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[12.968333333333334, 79.09527777777777]</p>' + 
+'<p>No of routes:W116</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> TUMLA</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[9.5125, 76.97500000000001]</p>' + 
+'<p>No of routes:Q13,W43,W91</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> UBSAB</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[19.232777777777777, 75.13027777777778]</p>' + 
+'<p>No of routes:J2,J5</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> UDULO</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[16.36777777777778, 73.56194444444444]</p>' + 
+'<p>No of routes:P574,W15,W17N</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> UDUPU</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[10.266388888888889, 75.61999999999999]</p>' + 
+'<p>No of routes:W145</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> UGABA</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[12.149722222222222, 77.29138888888889]</p>' + 
+'<p>No of routes:W43</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> UGPEG</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[9.514166666666666, 65.57638888888889]</p>' + 
+'<p>No of routes:B459,L516</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> UKADU</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[9.272777777777778, 76.66277777777778]</p>' + 
+'<p>No of routes:Q12,W15</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> UKBAB</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[26.19638888888889, 74.91277777777778]</p>' + 
+'<p>No of routes:A347,P628,W124</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> UNRIV</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[13.594722222222222, 63.59861111111111]</p>' + 
+'<p>No of routes:G424,G450,L516</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> UNSAL</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[14.401388888888889, 76.16555555555556]</p>' + 
+'<p>No of routes:W101E,W121,W56S,W59</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> UPMAV</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[21.724444444444444, 75.69666666666667]</p>' + 
+'<p>No of routes:Q17,W156,W75</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> UPSOX</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[25.26861111111111, 76.3325]</p>' + 
+'<p>No of routes:J5,P628</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> UPTAR</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[21.511666666666667, 77.68194444444445]</p>' + 
+'<p>No of routes:G472,J3,N895,W20</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> URKOK</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[16.736666666666668, 87.15166666666667]</p>' + 
+'<p>No of routes:L301,P628</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> UXAGA</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[25.584722222222222, 86.2525]</p>' + 
+'<p>No of routes:G463,R581,W105</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> UXENA</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[19.579166666666666, 80.9475]</p>' + 
+'<p>No of routes:N877,W136</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> UXIDA</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[30.016666666666666, 75.29888888888888]</p>' + 
+'<p>No of routes:W108E,W108W,W109E,W109W</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> UXUPO</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[25.78777777777778, 83.28333333333333]</p>' + 
+'<p>No of routes:G590,L509</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> VABDI</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[15.0975, 78.63388888888889]</p>' + 
+'<p>No of routes:V43,W153,W71</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> VAGPU</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[15.693333333333333, 76.68694444444445]</p>' + 
+'<p>No of routes:Q8</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> VANTU</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[26.091666666666665, 89.24722222222222]</p>' + 
+'<p>No of routes:R598</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> VARKA</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[13.169722222222221, 74.09472222222222]</p>' + 
+'<p>No of routes:T8</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> VARLO</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[21.825833333333332, 86.54722222222222]</p>' + 
+'<p>No of routes:J4</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> VASLA</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[23.52138888888889, 70.99972222222222]</p>' + 
+'<p>No of routes:G210,G472,N893</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> VATLA</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[14.73472222222222, 89.31388888888888]</p>' + 
+'<p>No of routes:P628,W111</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> VATMO</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[13.7, 81.45]</p>' + 
+'<p>No of routes:N571,Q10</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> VAVDU</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[17.439166666666665, 74.35777777777777]</p>' + 
+'<p>No of routes:J5,Q8</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> VEDGI</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[22.560555555555556, 76.91944444444445]</p>' + 
+'<p>No of routes:N877,W146</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> VEKRA</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[19.383333333333333, 82.0]</p>' + 
+'<p>No of routes:J4</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> VELNU</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[24.0, 76.51666666666667]</p>' + 
+'<p>No of routes:W122N</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> VEMBO</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[13.591666666666667, 78.83333333333333]</p>' + 
+'<p>No of routes:W141,W48</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> VEMDI</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[11.289444444444444, 78.25583333333333]</p>' + 
+'<p>No of routes:J13,J15</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> VEMPI</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[21.87777777777778, 80.50333333333333]</p>' + 
+'<p>No of routes:W140</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> VENUM</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[25.20138888888889, 92.64472222222223]</p>' + 
+'<p>No of routes:W53</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> VEPIM</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[16.884166666666665, 89.27583333333334]</p>' + 
+'<p>No of routes:L759,W111</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> VETOL</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[15.04, 74.61972222222222]</p>' + 
+'<p>No of routes:W101E</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> VEXIR</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[22.378888888888888, 77.18416666666667]</p>' + 
+'<p>No of routes:N877,Q23</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> VIBAL</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[21.054444444444446, 83.78333333333333]</p>' + 
+'<p>No of routes:T1,W113E</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> VIKAS</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[16.493333333333336, 74.63722222222223]</p>' + 
+'<p>No of routes:Q9</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> VIKIT</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[27.870833333333334, 71.42444444444445]</p>' + 
+'<p>No of routes:P628</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> VILEN</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[26.011388888888888, 87.41388888888889]</p>' + 
+'<p>No of routes:Q18</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> VILOP</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[24.192222222222224, 81.99805555555555]</p>' + 
+'<p>No of routes:B209</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> VINAD</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[25.370555555555555, 88.82222222222222]</p>' + 
+'<p>No of routes:R598</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> VINEP</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[14.278333333333334, 78.24055555555556]</p>' + 
+'<p>No of routes:B211,V43,W121,W153,W48,W72</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> VINUK</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[17.481111111111108, 79.92416666666666]</p>' + 
+'<p>No of routes:V49</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> VIPAT</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[16.95, 82.40833333333335]</p>' + 
+'<p>No of routes:V9</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> VIRAM</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[15.359444444444444, 78.09861111111111]</p>' + 
+'<p>No of routes:N571,Q22,W57</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> VUTAS</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[9.2, 60.0]</p>' + 
+'<p>No of routes:G424,L875</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> XILAS</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[11.518055555555556, 78.56527777777778]</p>' + 
+'<p>No of routes:J13,W115</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> XIVIL</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[13.294444444444444, 78.91777777777779]</p>' + 
+'<p>No of routes:W117,W142,W48</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> XOKRO</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[9.251666666666667, 85.87166666666666]</p>' + 
+'<p>No of routes:N563,P762</p>'
++'</div>'],
+
+['<div class="info_content">' +'<h3> XOPOX</h3>' +
+'<h2><b>NAVIGATIONAL AIDS</b></h2>' + 
+'<p> Lat,long[16.767777777777777, 82.6463888888889]</p>' + 
+'<p>No of routes:A465</p>'
++'</div>'],
+
+>>> 

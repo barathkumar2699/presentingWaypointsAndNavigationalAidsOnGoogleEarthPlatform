@@ -1,0 +1,212 @@
+<html>
+
+<head>
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
+    <meta charset="utf-8">
+    <title>South America Tour Map</title>
+    <style>
+        html,
+        body {
+            margin: 0;
+            padding: 0;
+            text-align: center;
+            font-family: Helvetica;
+        }
+
+        select {
+            border: 3px solid #ccc;
+            margin: 0;
+            padding: 4px;
+            width: 250px;
+            z-index: 2;
+            cursor: pointer;
+            outline: none;
+            border-radius: 4px;
+        }
+
+        .map {
+            position: absolute;
+            bottom: 0px;
+            left: 0px;
+            width: 100%;
+            height: 100%;
+            background: #fff;
+            z-index: 0;
+        }
+
+        .controls {
+            position: absolute;
+            top: 0px;
+            border: 0.0001px solid #ccc;
+            left: 0px;
+            width: 100%;
+            height: 100px;
+            line-height: 60px;
+            background: rgba(255, 255, 255, 0);
+            z-index: 1;
+            font-size: 2em;
+            border-radius: 4px;
+        }
+
+        #s_from {
+            width: 14%;
+            border: 4px solid;
+            border-radius: 4px;
+            background: rgba(255, 255, 255, 0);
+        }
+
+        #e_to {
+            width: 14%;
+            border: 4px solid;
+            border-radius: 4px;
+            background: rgba(255, 255, 255, 0);
+        }
+    </style>
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js"
+        integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+    <script>
+
+
+        function initMap() {
+            var map = new google.maps.Map(document.getElementById('mapCanvas'), {
+                zoom: 5,
+                draggable: true,
+                mapTypeId: 'satellite',
+                panControl: true,
+
+                streetViewControl: true,
+                scrollwheel: true,
+                scaleControl: true,
+                disableDefaultUI: false,
+                disableDoubleClickZoom: false,
+                center: { lat: 20.17805556, lng: 78.805556 },
+                styles: [{ "featureType": "all", "elementType": "all", "stylers": [{ "invert_lightness": true }, { "saturation": 10 }, { "lightness": 30 }, { "gamma": 0.5 }, { "hue": "#435158" }] }]
+            });
+
+        }
+        function modify() {
+            var map = new google.maps.Map(document.getElementById('mapCanvas'), {
+                zoom: 5,
+                draggable: true,
+                mapTypeId: 'satellite',
+                panControl: true,
+                streetViewControl: true,
+                scrollwheel: true,
+                scaleControl: true,
+                disableDefaultUI: false,
+                disableDoubleClickZoom: false,
+                center: { lat: 20.17805556, lng: 78.805556 },
+                styles: [{ "featureType": "all", "elementType": "all", "stylers": [{ "invert_lightness": true }, { "saturation": 10 }, { "lightness": 30 }, { "gamma": 0.5 }, { "hue": "#435158" }] }]
+            });
+            var start = document.getElementById("s_from").value;
+            var end = document.getElementById("e_to").value;
+            // console.log(start);
+            $.post('http://localhost:8080/getLocation', { name: start }).done(function (data) {
+                let center = {
+                    lat: parseFloat(data.location.lat.$numberDecimal),
+                    lng: parseFloat(data.location.long.$numberDecimal)
+                }
+                //        console.log(center);
+                var marker = new google.maps.Marker({
+                    position: center,
+                    map: map
+                });
+            });
+            $.post('http://localhost:8080/getLocation', { name: end }).done(function (data) {
+                let center = {
+                    lat: parseFloat(data.location.lat.$numberDecimal),
+                    lng: parseFloat(data.location.long.$numberDecimal)
+                }
+                //          console.log(center);
+                var marker = new google.maps.Marker({
+                    position: center,
+                    map: map
+                });
+            });
+            $.post('http://localhost:8080/getDirections', { from: start, to: end }).done(function (data) {
+                //   console.log(data);
+                //let d=[];
+                let sum = 0.0000000;
+                let max = 0.0;
+                let maxIndex = 0;
+                for (let j = 0; j < data.length; j++) {
+                    let routes = data[j];
+                    sum = 0.0000000;
+                    for (let pointer in routes.directions.route.waypoints) {
+
+                        // let d=parseInt(routes.directions.route.waypoints[k].fromDistance.$numberDecimal);
+                        //console.log(d);
+
+
+                        let d1 = parseFloat(routes.directions.route.waypoints[pointer].fromDistance.$numberDecimal);
+                        //console.log(d1); 
+                        sum = sum + d1;
+                        if (pointer == routes.directions.route.waypoints.length - 1) {
+                            sum += parseFloat(routes.directions.route.waypoints[pointer].toDistance.$numberDecimal);
+                        }
+
+                    };
+                    console.log(sum);
+                    for (i = 0; i < routes.position.length; i++) {
+                        let plot = [routes.position[i].from.center, routes.position[i].to.center];
+                        // console.log(plot);
+                        let polyline = new google.maps.Polyline({
+                            path: plot,
+                            geodesic: true,
+                            strokeColor: '#AC1E3F',
+                            strokeOpacity: 3,
+                            strokeWeight: 5,
+                            map: map,
+                        })
+                        if (j == 0) {
+                            max = sum;
+                            polyline.setMap(map);
+                        }
+                        else if (max < sum) {
+                            polyline.setMap(null);
+                        }
+                        else {
+                            polyline.setMap(map);
+                            max = sum;
+                            maxIndex = j;
+                        }
+                    };
+                };
+                let rout = data[maxIndex];
+                for (let i in rout.directions.route.waypoints) {
+                    let center = {
+                        lat: parseFloat(rout.directions.route.waypoints[i].lat.$numberDecimal),
+                        lng: parseFloat(rout.directions.route.waypoints[i].long.$numberDecimal)
+                    }
+                    var marker = new google.maps.Marker({
+                        position: center,
+                        map: map,
+                        icon: {
+                            path: google.maps.SymbolPath.CIRCLE,
+                            scale: 3,
+                            strokeColor: '#1087b2'
+                        }
+                    });
+                }
+            });
+        }
+    </script>
+</head>
+
+<body>
+
+    <body>
+        <div class="controls">
+
+            <input type="text" id="s_from" name="fname">
+            <font color="red"> <b><i> - to - </i></b></font>
+            <input type="text" id="e_to" name="ename">
+            <input type="button" value="search" onclick="go()">
+        </div>
+        <div id="mapCanvas" class="map"></div>
+
+        <script
+            src="https://maps.googleapis.com/maps/api/js?key=AIzaSyB1LoOvq7e6NJnxJdk2aUi3KZrY5WqY-jI&callback=initMap"></script>
+    </body>
+
+</html>
